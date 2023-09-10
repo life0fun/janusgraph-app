@@ -1,0 +1,14 @@
+bin/
+.classpath
+.project
+.settings/
+.groovy/
+.gradle/
+.idea/
+target/
+lib/
+build/
+scripts/eth_2016-01-01-2016-04-01_transaction.csv
+scripts/eth_2016-01-01-2016-03-31_address.csv
+scripts/eth_2016-01-01-2016-03-31_transaction.csv
+scripts/eth_2016-01-01-2016-12*.*

@@ -1,0 +1,13 @@
+language: java
+
+services:
+    - docker
+
+script:
+    - ./test/test.sh
+
+addons:
+    apt:
+        packages:
+        - shellcheck
+        - maven
